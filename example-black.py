@@ -14,7 +14,14 @@ foo = long_function_name(
 )
 
 
-result = long_function_name("a", "b", "c", "d", "e", "f",)
+result = long_function_name(
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+)
 
 my_list = [
     1,
